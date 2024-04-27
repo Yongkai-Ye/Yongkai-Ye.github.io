@@ -15,7 +15,7 @@ Details are shown on the other page of this website.
 
 You can find my CV here: [Yongkai Ye's Curriculum Vitae](../assets/CurriculumVitae.pdf).
 
-You can contact me via these ways: [Email](mailto:yyk22213004@zju.edu.cn)/ [Github](https://github.com/Yongkai-Ye)/ [ResearchGate](https://www.researchgate.net/profile/Yongkai-Ye-2)/ [GoogleSchloar](https://scholar.google.com/citations?user=goi62BAAAAAJ)
+You can contact me via these ways: [Email](mailto:yyk22213004@zju.edu.cn)/ [Github](https://github.com/Yongkai)/ [ResearchGate](https://www.researchgate.net/profile/Yongkai-Ye-2)/ [GoogleSchloar](https://scholar.google.com/citations?user=goi62BAAAAAJ)
 
 
 <!--[TOC]-->
