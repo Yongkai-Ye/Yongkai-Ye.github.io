@@ -12,9 +12,9 @@ title                    : "Yongkai Ye (叶永凯)"
 title_separator          : "-"
 name                     : &name "Yongkai Ye"
 description              : &description "Master’s student from the College of Biosystems Engineering and Food Science, Zhejiang University"
-URL                      : "https://Yongkai.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://Yongkai-Ye.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yongkai-Ye/Yongkai.github.io"
+repository               : "Yongkai-Ye/Yongkai-Ye.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
