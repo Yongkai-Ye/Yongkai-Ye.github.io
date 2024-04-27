@@ -24,6 +24,6 @@ permalink: /research/nwafu-research-1
 
 ![customized platform](../images/CustomizedPlatform.gif "customized platform"){:height="75%" width="75%"}
 
-![customized platform](../images/ImageProcessing.gif "image processing"){:height="75%" width="75%"}
+![customized platform](../images/ImageProcessing.png "image processing"){:height="75%" width="75%"}
 
-![Chine patent](../images/ChinePatent1.png  "Chine patent"){:height="75%" width="75%"}
+![Chine patent](../images/ChinaPatent1.png  "China patent"){:height="75%" width="75%"}
