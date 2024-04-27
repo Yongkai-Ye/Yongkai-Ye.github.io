@@ -18,10 +18,10 @@ permalink: /research/nwafu-research-1
 
 **Results:** We realized the 3D construction of wheat head and seed and measured the size of them by a [Point Cloud Library](https://pointclouds.org). We have also been granted a China patent (patent number: CN202022559932.3) for the customized platform.
 
-![wheat seed reconstruction](../images/seed.gif "wheat seed"){:height="75%" width="75%"} 
+![wheat seed reconstruction](../myimages/WheatSeed.gif "wheat seed"){:height="75%" width="75%"} 
 
-![wheat head reconstruction](../images/wheat.gif  "wheat head"){:height="75%" width="75%"}
+![wheat head reconstruction](../myimages/WheatHead.gif  "wheat head"){:height="75%" width="75%"}
 
-![customized platform](https://github.com/Yongkai-Ye/images/blob/main/images/platform.gif "customized platform"){:height="75%" width="75%"}
+![customized platform](../myimages/blob/main/images/CustomizedPlatform.gif "customized platform"){:height="75%" width="75%"}
 
-![Chine patent](../images/patent.png  "Chine patent"){:height="75%" width="75%"}
+![Chine patent](../myimages/ChinaPatent1.png  "Chine patent"){:height="75%" width="75%"}
