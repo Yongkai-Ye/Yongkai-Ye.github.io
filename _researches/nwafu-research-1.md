@@ -3,7 +3,7 @@ title: "Measurement of wheat head traits based on 3D reconstruction using multi-
 collection: researches
 type: "Undergraduate"
 permalink: /research/nwafu-research-1
-#venue: "College of Mechanical and Electronics Engineering, Northwest Agriculture & Forest University1"
+#venue: "College of Mechanical and Electronics Engineering, Northwest Agriculture & Forest University"
 #date: 2022-07-01
 #location: "Yangling, China"
 ---
