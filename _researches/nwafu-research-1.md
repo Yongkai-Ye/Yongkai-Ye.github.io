@@ -22,6 +22,6 @@ permalink: /research/nwafu-research-1
 
 ![wheat head reconstruction](../myimages/WheatHead.gif  "wheat head"){:height="75%" width="75%"}
 
-![customized platform](../myimages/blob/main/images/CustomizedPlatform.gif "customized platform"){:height="75%" width="75%"}
+![customized platform](../myimages/CustomizedPlatform.gif "customized platform"){:height="75%" width="75%"}
 
 ![Chine patent](../myimages/ChinaPatent1.png  "Chine patent"){:height="75%" width="75%"}
