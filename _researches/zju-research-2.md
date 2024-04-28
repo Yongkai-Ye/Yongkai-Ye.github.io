@@ -1,7 +1,7 @@
 ---
-title: "Modelling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data (September 2022 - August 2023)"
+title: "Development of a novel variable-curvature soft gripper used for orientating broccoli in the trimming line (September 2022 - April 2024)"
 collection: researches
-type: "Undergraduate"
+type: "Graduate"
 permalink: /research/zju-research-1
 #venue: "College of Biosystems Engineering and Food Science, Zhejiang University"
 #date: 2025-07-01
