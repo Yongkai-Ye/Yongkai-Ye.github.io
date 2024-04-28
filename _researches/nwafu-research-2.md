@@ -1,8 +1,8 @@
 ---
-title: "Measurement of wheat head traits based on 3D reconstruction using multi-view sequence images (September 2020 - August 2021)"
+title: "Chemometric development for early detection of  AVC (Valsa mali Miyabe et Yamada) infection of apple trees based on vibration spectroscopy (October 2020 - September 2021)"
 collection: researches
 type: "Undergraduate"
-permalink: /research/nwafu-research-1
+permalink: /research/nwafu-research-2
 #venue: "College of Mechanical and Electronics Engineering, Northwest Agriculture & Forest University"
 #date: 2022-07-01
 #location: "Yangling, China"
