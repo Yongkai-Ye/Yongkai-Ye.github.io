@@ -1,5 +1,5 @@
 ---
-title: "Measurement of wheat head traits based on 3D reconstruction using multi-view sequence images (September 2020 - August 2021)"
+title: "Measurement of wheat head traits based on 3D reconstruction using multi-view sequence images (September 2019 - August 2020)"
 collection: researches
 type: "Undergraduate"
 permalink: /research/nwafu-research-1
