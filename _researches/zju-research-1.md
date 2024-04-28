@@ -1,8 +1,8 @@
 ---
-title: "Modelling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data (September 2022 - August 2023)"
+title: "Modelling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data (April 2023 - November 2024)"
 collection: researches
-type: "Undergraduate"
-permalink: /research/zju-research-2
+type: "Graduate"
+permalink: /research/zju-research-1
 #venue: "College of Biosystems Engineering and Food Science, Zhejiang University"
 #date: 2025-07-01
 #location: "Hangzhou, China"
