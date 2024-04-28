@@ -1,22 +1,22 @@
 ---
-title: "Development of a novel variable-curvature soft gripper used for orientating broccoli in the trimming line (September 2022 - April 2024)"
+title: "Development of a novel variable-curvature soft gripper used for orientating broccoli in the trimming line (December 2022 - August 2024)"
 collection: researches
 type: "Graduate"
-permalink: /research/zju-research-1
+permalink: /research/zju-research-2
 #venue: "College of Biosystems Engineering and Food Science, Zhejiang University"
 #date: 2025-07-01
 #location: "Hangzhou, China"
 ---
 
-**Object:** Providing a robust method for modeling the bending angle of multi-material SFRBA.
+**Object:** Providing a novel pneumatic variable-curvature soft gripper (VCSG) for orientating broccoli.
 
-#**Difficulties:** The acquisition of tremendous FEM data pairs and the development of optimal machine learning algorithms.
+#**Difficulties:** The design of VCSG.
 
 **Role:** I was with full authority.
 
 **Advisor:** [Prof. Dongdong Du](https://person.zju.edu.cn/Dudd)
 
-**Results:** We highlighted a method for modeling SFRBAs using FEM and machine learning algorithms and published a SCI paper named ***"[Modelling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data](https://doi.org/10.1016/j.sna.2024.115095)"*** for this research.
+**Results:** We presented a novel and efficient variable-curvature soft gripper (VCSG) with the ability to guide the broccoli upright that mainly comprised variable-curvature fiber-reinforced bending actuators (VCFRBAs) and submit a SCI paper named ***"Modelling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data"*** to the journal ***"Computers and Electronics in Agriculture"*** for this research (Under Review).
 
-![Microplastic Cover](../images/FEMMachineLearningCover.png "Microplastic cover"){:height="75%" width="75%"} 
+![VCSG Graphical Abstract](../images/VCSGGraphicalAbstract.jpg "VCSG Graphical abstract"){:height="75%" width="75%"} 
 
