@@ -8,7 +8,7 @@ permalink: /research/nwafu-research-1
 #location: "Yangling, China"
 ---
 
-**Object:** Measuring the wheat head traits using 3D construction and multi-view sequence images based on a customized platform.
+**Object:** Measuring the wheat head traits using 3D construction and multi-view sequence images based on a customized platform1.
 
 **Difficulties:** Small objects such as wheat seeds make it difficult for the camera to calibrate.
 
