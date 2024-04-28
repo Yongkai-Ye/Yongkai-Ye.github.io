@@ -19,5 +19,4 @@ permalink: /research/zju-research-1
 **Results:** We highlighted a method for modeling SFRBAs using FEM and machine learning algorithms and published a SCI paper named ***"[Modelling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data](https://doi.org/10.1016/j.sna.2024.115095)"*** for this research.
 
 ![Microplastic Cover](../images/FEMMachineLearningCover.png "Microplastic cover"){:height="75%" width="75%"} 
-![FEMMachineLearning Supplementary Video 1](../images/FEMMachineLearningSupplementaryVideo1.mp4 "FEMMachineLearning Supplementary video 1"){:height="75%" width="75%"} 
 
