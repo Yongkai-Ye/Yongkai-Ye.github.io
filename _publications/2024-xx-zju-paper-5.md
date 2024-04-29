@@ -11,7 +11,7 @@ citation: 'Yongkai Ye, Chaoyue Han, Dongdong Du, (2024). Bending Angle Predictio
 
 Author List
 ======
-Dongdong Du, **Yongkai Ye**, Chaoyue Han, Dongdong Du
+**Yongkai Ye**, Chaoyue Han, Dongdong Du
 
 Abstract
 ======
