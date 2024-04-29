@@ -22,13 +22,13 @@ National Scholarship Student Representative
 ---
 National Scholarship Outstanding Graduate
 
-12^th^ China Undergraduate Mathematical Final Contest (The Third Prize, National Award)
+$12^{th}$ China Undergraduate Mathematical Final Contest (The Third Prize, National Award)
 
 2019 -- 2020
 ---
 National Scholarship Outstanding Graduate
 
-12^th^ China Undergraduate Mathematical Preliminary Contest (The First Prize, Provincial Award)
+$12^{th}$ China Undergraduate Mathematical Preliminary Contest (The First Prize, Provincial Award)
 
 2018 -- 2019
 ---
@@ -36,7 +36,7 @@ President Scholarship Outstanding Graduate
 
 2019 China Robot Competition (The First Prize)
 
-11^th^ China Undergraduate Mathematical Contest (The First Prize, Provincial Award)
+$11^{th}$ China Undergraduate Mathematical Contest (The First Prize, Provincial Award)
 
 Certification
 ======
