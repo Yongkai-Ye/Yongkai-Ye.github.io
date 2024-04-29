@@ -32,13 +32,52 @@ Skills
 * **Languages:** English (Proficient in reading and writing and Fluent in speaking) Mandarin Chinese (Native).
 * **Coding:** Python, Matlab, C++, C, LabVIEW, LaTeX typesetting, Markdown, …
 * **Software:** SolidWorks, Abaqus, Anasys, Multisim, Proteus, Origin, …
-  
-Teaching
+
+Awards and Achievements
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+2021 -- 2022
+------
+* 2022 The Mathematical Contest in Modeling (Honorable Mention)
+* National Scholarship Student Representative
+
+2020 -- 2021
+------
+*National Scholarship Outstanding Graduate
+*$12^{th}$ China Undergraduate Mathematical Final Contest (The Third Prize, National Award)
+
+2019 -- 2020
+------
+* National Scholarship Outstanding Graduate
+* $12^{th}$ China Undergraduate Mathematical Preliminary Contest (The First Prize, Provincial Award)
+
+2018 -- 2019
+------
+* President Scholarship Outstanding Graduate
+* 2019 China Robot Competition (The First Prize)
+* $11^{th}$ China Undergraduate Mathematical Contest (The First Prize, Provincial Award)
+
+Certification
+======
+* National Computer Rank Examination two level C language certificate (Excellent)
+* National Computer Rank Examination two level C++ language certificate (Good)
+ 
 Referee
 ======
-* Currently signed in to 43 different slack teams
+Yanru Zhao
+------
+* [**Prof. Yanru Zhao**](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/396312.htm)
+* **Email:** [yrzhao@nwsuaf.edu.cn](yrzhao@nwsuaf.edu.cn)
+* **Location:** 22 Xinong Road, Yangling, China
+
+Keqiang Yu
+------
+* [**Prof. Keqiang Yu**](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/319400.htm)
+* **Email:** [keqiang_yu@163.com](keqiang_yu@163.com)
+* **Location:** 22 Xinong Road, Yangling, China
+
+Dongdong Du
+------
+* [**Prof.Dongdong Du**](https://person.zju.edu.cn/Dudd)
+* **Email:** [dudd@zju.edu.cn](dudd@zju.edu.cn)
+* **Location:** 66 Yuhangtang Road, Hangzhou, China
