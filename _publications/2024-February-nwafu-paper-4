@@ -1,7 +1,7 @@
 ---
 title: "Optimal feature extraction from multidimensional remote sensing data for orchard identification based on deep learning methods"
 collection: publications
-permalink: /publications/2023-June-nwafu-paper-3
+permalink: /publications/2024-February-nwafu-paper-4
 excerpt: 'This paper is about providing two neural networks that fuse stack autoencoder and convolutional neural network (CNN) at one-dimension and three-dimension, namely one-dimension and three-dimension fusion stacked autoencoder (FSA) and CNN networks (1D-FSA-CNN and 3D-FSA-CNN) for orchard identification.'
 date: 2024-07-01
 venue: 'Journal of Applied Remote Sensing'
