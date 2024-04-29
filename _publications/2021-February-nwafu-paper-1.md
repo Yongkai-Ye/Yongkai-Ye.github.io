@@ -11,7 +11,7 @@ citation: 'Yanru Zhao, Shiyan Fang, Yongkai Ye, Keqiang Yu, (2021). Chemometric 
 
 Author List
 ======
-Yanru Zhao; Shiyan Fang; **Yongkai Ye (I am here listed as the third author)**; Keqiang Yu
+Yanru Zhao; Shiyan Fang; **Yongkai Ye**; Keqiang Yu
 
 Abstract
 ======
