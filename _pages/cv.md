@@ -20,12 +20,6 @@ Research experiences
   <ul>{% for post in site.researches reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Skills
-======
-* **Languages:** English (Proficient in reading and writing and Fluent in speaking) Mandarin Chinese (Native).
-* **Coding:** Python, Matlab, C++, C, LabVIEW, LaTeX typesetting, Markdown, …
-* **Software:** SolidWorks, Abaqus, Anasys, Multisim, Proteus, Origin, …
 
 Publications
 ======
@@ -33,11 +27,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* **Languages:** English (Proficient in reading and writing and Fluent in speaking) Mandarin Chinese (Native).
+* **Coding:** Python, Matlab, C++, C, LabVIEW, LaTeX typesetting, Markdown, …
+* **Software:** SolidWorks, Abaqus, Anasys, Multisim, Proteus, Origin, …
   
 Teaching
 ======
@@ -45,6 +39,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Referee
 ======
 * Currently signed in to 43 different slack teams
