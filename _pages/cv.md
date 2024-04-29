@@ -55,7 +55,7 @@ Awards and Achievements
 ------
 * President Scholarship Outstanding Graduate
 * 2019 China Robot Competition (The First Prize)
-* 11^th China Undergraduate Mathematical Contest (The First Prize, Provincial Award)
+* 11th China Undergraduate Mathematical Contest (The First Prize, Provincial Award)
 
 Certification
 ======
