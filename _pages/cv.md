@@ -64,6 +64,7 @@ Certification
  
 Referee
 ======
+
 Yanru Zhao
 ------
 * [**Prof. Yanru Zhao**](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/396312.htm)
@@ -78,6 +79,6 @@ Keqiang Yu
 
 Dongdong Du
 ------
-* [**Prof.Dongdong Du**](https://person.zju.edu.cn/Dudd)
+* [**Prof. Dongdong Du**](https://person.zju.edu.cn/Dudd)
 * **Email:** [dudd@zju.edu.cn](dudd@zju.edu.cn)
 * **Location:** 66 Yuhangtang Road, Hangzhou, China
