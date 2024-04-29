@@ -11,6 +11,7 @@ redirect_from:
 
 Awards and Achievements
 ======
+
 2021 -- 2022
 ------
 2022 The Mathematical Contest in Modeling (Honorable Mention)
