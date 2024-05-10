@@ -10,7 +10,7 @@ permalink: /research/zju-research-3
 
 **Object:** Providing an approach for modeling the SFRBAs using fluid-structure interaction (FSI) method, combining computational fluid dynamics (CFD) and nonlinear structural analysis (NSA).
 
-#**Difficulties:** The developments of FSI method.
+**Difficulties:** The development of FSI method.
 
 **Role:** I was with full authority.
 
