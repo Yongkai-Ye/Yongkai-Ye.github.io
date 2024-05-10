@@ -57,12 +57,12 @@ Awards and Achievements
 * 2019 China Robot Competition (The First Prize)
 * 11th China Undergraduate Mathematical Contest (The First Prize, Provincial Award)
 
-Certification
+Certifications
 ======
 * National Computer Rank Examination two level C language certificate (Excellent)
 * National Computer Rank Examination two level C++ language certificate (Good)
  
-Referee
+Referees
 ======
 
 Yanru Zhao
