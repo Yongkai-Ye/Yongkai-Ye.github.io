@@ -1,12 +1,12 @@
 ---
-title: "A Novel Biomimetic Variable-Curvature Soft Gripper for Umbrella-Shaped Broccoli (Under Review)"
+title: "A Novel Biomimetic Variable-Curvature Soft Gripper for Umbrella-Shaped Broccoli (In Preparation)"
 collection: publications
 permalink: /publications/2024-xx-zju-paper-6
 excerpt: 'This work is about proposing the design, fabrication, modeling, and testing of a novel pneumatic variable-curvature soft gripper (VCSG) for umbrella-shaped broccoli that mainly comprised three soft variable-curvature fiber-reinforced bending actuators (VCFRBAs).'
 date: 2024-07-01
 venue: '2024 IEEE International Conference on Robotics and Biomimetics (Expected)'
 paperurl: ''
-citation: 'Yongkai Ye, Shuo Kang, Dongdong Du, (2024). A Novel Biomimetic Variable-Curvature Soft Gripper for Umbrella-Shaped Broccoli. 2024 IEEE International Conference on Robotics and Biomimetics, Under Review.'
+citation: 'Yongkai Ye, Shuo Kang, Dongdong Du, (2024). A Novel Biomimetic Variable-Curvature Soft Gripper for Umbrella-Shaped Broccoli. 2024 IEEE International Conference on Robotics and Biomimetics, In Preparation.'
 ---
 
 Author List
