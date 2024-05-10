@@ -1,5 +1,5 @@
 ---
-title: "M.Sc. in Agricultural Mechanization Engineering (Expected in 2025)"
+title: "M.Sc. in Agricultural Mechanization Engineering (2022 -- 2025 (Expected))"
 collection: education
 type: "Graduate"
 permalink: /education/zju-education-2
