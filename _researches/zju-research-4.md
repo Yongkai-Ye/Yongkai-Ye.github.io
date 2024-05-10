@@ -10,7 +10,7 @@ permalink: /research/zju-research-4
 
 **Object:** Providing a promising solution using 3D scanning technology to nondestructively assess the texture quality of leafy vegetables.
 
-#**Difficulties:** The acquisition and processing of 3D scanning data and development of statistics analysis method based on machine learning.
+**Difficulties:** The acquisition and processing of 3D scanning data and development of statistics analysis method based on machine learning.
 
 **Role:** I was with full authority.
 
