@@ -11,10 +11,10 @@ I received my Bachelor’s Degree in Electronics and Information Engineering fro
 
 During my undergraduate period, I worked as the monitor of our class and achieved the top, ranking *1* in 60 students (**GPA: 3.89/4.00**).
 
-My Transcript and Ranking Certificate are shown here!
-[Yongkai Ye's Transcript](../images/UndergraduateTranscriptEnglish1.jpg){:height="75%" width="75%"}
-[Yongkai Ye's Transcript](../images/UndergraduateTranscriptEnglish2.jpg){:height="75%" width="75%"}
-[Yongkai Ye's Ranking Certificate](../images/RankingCertificate1.png){:height="75%" width="75%"}
+My Transcript and Ranking Certificate are shown here.
+![Yongkai Ye's Transcript](../images/UndergraduateTranscriptEnglish1.jpg){:height="75%" width="75%"}
+![Yongkai Ye's Transcript](../images/UndergraduateTranscriptEnglish2.jpg){:height="75%" width="75%"}
+![Yongkai Ye's Ranking Certificate](../images/RankingCertificate1.png){:height="75%" width="75%"}
 
 Research Interests
 ======
