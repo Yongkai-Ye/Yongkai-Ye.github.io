@@ -24,10 +24,12 @@ Some results are shown as follows.
 
 **Results of customized platform construction**
 ![customized platform](../images/CustomizedPlatform.gif "customized platform"){:height="75%" width="75%"}
+
 I built a customized frame using aluminum profiles with a three-axis slider and a camera mounted to obtain the multi-view sequence images.
 
 **Results of image processing**
 ![image processing](../images/ImageProcessing.png "image processing"){:height="75%" width="75%"}
+
 I got the position of individual seed based on the [OpenCV library](https://opencv.org/).
 
 **Results of wheat seed reconstruction**
@@ -35,4 +37,5 @@ I got the position of individual seed based on the [OpenCV library](https://open
 
 **Results of wheat seed reconstruction**
 ![wheat head reconstruction](../images/WheatHead.gif  "wheat head"){:height="75%" width="75%"}
+
 With the help of my partners, multi-view sequence images were employed for 3D reconstruction using  [Marching Cubes algorithm](https://scikit-image.org/docs/stable/auto_examples/edges/plot_marching_cubes.html). The generated 3D point cloud results were processed to remove artifacts and measured by [Point Cloud Library](https://pointclouds.org/) for comparison with actual experiments.
