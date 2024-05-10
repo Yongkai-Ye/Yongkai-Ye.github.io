@@ -1,5 +1,5 @@
 ---
-title: "A Novel Biomimetic Variable-Curvature Soft Gripper for Umbrella-Shaped Broccoli (In Preparation)"
+title: "A novel biomimetic variable-curvature soft gripper for umbrella-shaped broccoli (In Preparation)"
 collection: publications
 permalink: /publications/2024-xx-zju-paper-6
 excerpt: 'This work is about proposing the design, fabrication, modeling, and testing of a novel pneumatic variable-curvature soft gripper (VCSG) for umbrella-shaped broccoli that mainly comprised three soft variable-curvature fiber-reinforced bending actuators (VCFRBAs).'
