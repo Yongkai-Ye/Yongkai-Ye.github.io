@@ -68,17 +68,12 @@ Referee
 Yanru Zhao
 ------
 * [**Prof. Yanru Zhao**](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/396312.htm)
-* **Email:** [yrzhao@nwsuaf.edu.cn](yrzhao@nwsuaf.edu.cn)
+* **Email:** [yrzhao@nwsuaf.edu.cn](matio:yrzhao@nwsuaf.edu.cn)
 * **Location:** 22 Xinong Road, Yangling, China
 
-Keqiang Yu
-------
-* [**Prof. Keqiang Yu**](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/319400.htm)
-* **Email:** [keqiang_yu@163.com](keqiang_yu@163.com)
-* **Location:** 22 Xinong Road, Yangling, China
 
 Dongdong Du
 ------
 * [**Prof. Dongdong Du**](https://person.zju.edu.cn/Dudd)
-* **Email:** [dudd@zju.edu.cn](dudd@zju.edu.cn)
+* **Email:** [dudd@zju.edu.cn](matio:dudd@zju.edu.cn)
 * **Location:** 866 Yuhangtang Road, Hangzhou, China
