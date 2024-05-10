@@ -6,12 +6,12 @@ excerpt: 'This paper is about providing two neural networks that fuse stack auto
 date: 2024-07-01
 venue: 'Journal of Applied Remote Sensing'
 paperurl: 'https://doi.org/10.1117/1.JRS.18.014514'
-citation: 'Junjie Luo,Jiao Guo, Yongkai Ye, Zhe Zhu, Yunlong Du, Yongkai Ye, (2024). Optimal feature extraction from multidimensional remote sensing data for orchard identification based on deep learning methods. Journal of Applied Remote Sensing, 18(1), 014514.'
+citation: 'Junjie Luo,Jiao Guo, Zhe Zhu, Yunlong Du, Yongkai Ye, (2024). Optimal feature extraction from multidimensional remote sensing data for orchard identification based on deep learning methods. Journal of Applied Remote Sensing, 18(1), 014514.'
 ---
 
 Author List
 ======
-Junjie Luo,Jiao Guo, Yongkai Ye, Zhe Zhu, Yunlong Du, **Yongkai Ye**
+Junjie Luo,Jiao Guo, Zhe Zhu, Yunlong Du, **Yongkai Ye**
 
 Abstract
 ======
