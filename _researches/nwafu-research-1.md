@@ -1,22 +1,22 @@
 ---
-title: "Measurement of wheat head traits based on 3D reconstruction using multi-view sequence images (September 2019 - August 2020)"
+title: "Measurement of wheat head traits via 3D reconstruction using sequence images (September 2019 - August 2020)"
 collection: researches
 type: "Undergraduate"
 permalink: /research/nwafu-research-1
-#venue: "College of Mechanical and Electronics Engineering, Northwest Agriculture & Forest University"
+#venue: "College of Mechanical and Electronics Engineering, Northwest A & F University"
 #date: 2022-07-01
 #location: "Yangling, China"
 ---
 
 **Object:** Measuring the wheat head traits using 3D construction and multi-view sequence images based on a customized platform.
 
-**Difficulties:** Small objects such as wheat seeds make it difficult for the camera to calibrate.
+**Difficulties:** Manual measurements are subjective without enough reliability, and small objects such as wheat seeds make it difficult for the camera to calibrate for accurate results.
 
 **Role:** I was responsible for the construction of the customized platform and the acquisition of multi-view sequence images.
 
 **Advisor:** [Prof. Tingting Wu](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/318499.htm)
 
-**Results:** We realized the 3D construction of wheat head and seed and measured the size of them by a [Point Cloud Library](https://pointclouds.org). We have also been granted a China patent (patent number: CN202022559932.3) for the customized platform.
+**Results:** We realized the 3D construction of wheat head and seed and measured the size of them by a [Point Cloud Library](https://pointclouds.org). We have also been granted a China patent for utility model (Patent number: CN202022559932.3) for the customized platform.
 
 ![wheat seed reconstruction](../images/WheatSeed.gif "wheat seed"){:height="75%" width="75%"} 
 
