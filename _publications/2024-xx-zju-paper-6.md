@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2024-xx-zju-paper-6
 excerpt: 'This work is about proposing a biomimetic pneumatic soft gripper (BPSG) that mainly comprised three soft variable-curvature fiber-reinforced bending actuators (VCFRBAs), dedicated to grasping umbrella-shaped mushrooms.'
 date: 2024-07-01
-venue: 'ASABE 2024 Annual International Meeting '
+venue: 'ASABE 2024 Annual International Meeting (Expected)'
 paperurl: ''
 citation: 'Yongkai Ye, Dongdong Du, (2024). Biomimetic pneumatic soft gripper for grasping umbrella-shaped mushrooms. ASABE 2024 Annual International Meeting, Under Review.'
 ---
