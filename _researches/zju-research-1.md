@@ -10,7 +10,7 @@ permalink: /research/zju-research-1
 
 **Object:** Providing a robust method for modeling the bending angle of multi-material SFRBA.
 
-#**Difficulties:** The acquisition of tremendous FEM data pairs and the development of optimal machine learning algorithms.
+**Difficulties:** The acquisition of tremendous FEM data pairs and the development of optimal machine learning algorithms.
 
 **Role:** I was with full authority.
 
