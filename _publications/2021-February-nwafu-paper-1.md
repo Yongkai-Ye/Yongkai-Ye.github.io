@@ -6,7 +6,7 @@ excerpt: 'This paper is about using NIR spectroscopy and Raman spectroscopy tech
 date: 2021-02-01
 venue: 'Vibrational Spectroscopy'
 paperurl: 'https://doi.org/10.1016/j.vibspec.2021.103231'
-citation: 'Yanru Zhao, Shiyan Fang, **Yongkai Ye**, Keqiang Yu, (2021). Chemometric development using portable molecular vibrational spectrometers for rapid evaluation of AVC (Valsa mali Miyabe et Yamada) infection of apple trees. Vibrational Spectroscopy, 114. '
+citation: 'Yanru Zhao, Shiyan Fang, Yongkai Ye, Keqiang Yu, (2021). Chemometric development using portable molecular vibrational spectrometers for rapid evaluation of AVC (Valsa mali Miyabe et Yamada) infection of apple trees. Vibrational Spectroscopy, 114. '
 ---
 
 Author List
