@@ -5,7 +5,7 @@ permalink: /publications/2024-May-zju-paper-4
 excerpt: 'This work is about proposing a promising solution using 3D scanning technology to nondestructively assess the texture quality of leafy vegetables, and the harvested cabbages were chosen as the experimental samples.'
 date: 2024-05-01
 venue: 'Journal of Food Engineering'
-paperurl: 'Https//doi.org/10.1016/j.jfoodeng.2024.112123'
+paperurl: 'https://doi.org/10.1016/j.jfoodeng.2024.112123'
 citation: 'Dongdong Du, Yongkai Ye, Dongfang Li, Jie Fan, Rob B.N. Scharff, Jun Wang, Fake Shan, (2024). Nondestructive evaluation of harvested cabbage texture quality using 3D scanning technology. Journal of Food Engineering, 112123. '
 ---
 
@@ -20,3 +20,5 @@ Current nondestructive methods for evaluating the texture quality of leafy veget
 Keywords
 ======
 Nondestructive method; Leafy vegetables; Morphological traits; Vein distribution; Machine learning
+
+[Download Paper Here!](https://doi.org/10.1016/j.jfoodeng.2024.112123)
