@@ -14,6 +14,7 @@ During my undergraduate period, I worked as the monitor of our class and achieve
 My Transcript and Ranking Certificate are shown here.
 ![Yongkai Ye's Transcript](../images/UndergraduateTranscriptEnglish1.jpg){:height="75%" width="75%"}
 ![Yongkai Ye's Transcript](../images/UndergraduateTranscriptEnglish2.jpg){:height="75%" width="75%"}
+![Yongkai Ye's Transcript](../images/UndergraduateTranscriptChinese.jpg){:height="75%" width="75%"}
 ![Yongkai Ye's Ranking Certificate](../images/RankingCertificate1.png){:height="75%" width="75%"}
 
 Research Interests
