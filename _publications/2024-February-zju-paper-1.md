@@ -1,12 +1,12 @@
 ---
-title: "Modelling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data"
+title: "Modeling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data"
 collection: publications
 permalink: /publications/2024-February-zju-paper-1
-excerpt: 'This paper is about providing a method for modeling the SFRBA using finite element method (FEM) and nonlinear machine learning algorithms (MLAs). examining the efficiency of MLAs on SFRBAs composed of other silicone rubbers as well as analyzing the blocking force by considering the contact characteristics is left for next work.'
+excerpt: 'This paper is about providing a method for modeling the SFRBA using finite element method (FEM) and nonlinear machine learning algorithms (MLAs). And examining the efficiency of MLAs on SFRBAs composed of other silicone rubbers as well as analyzing the blocking force by considering the contact characteristics is left for next work.'
 date: 2024-07-01
 venue: 'Sensors and Actuators A Physical'
 paperurl: 'https://doi.org/10.1016/j.sna.2024.115095'
-citation: 'Yongkai Ye, Rob B.N. Scharff, Sifang Long, Chaoyue Han, Dongdong Du, (2024). Modelling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data. Sensors and Actuators A Physical, 014514.'
+citation: 'Yongkai Ye, Rob B.N. Scharff, Sifang Long, Chaoyue Han, Dongdong Du, (2024). Modeling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data. Sensors and Actuators A Physical, 014514. '
 ---
 
 Author List
