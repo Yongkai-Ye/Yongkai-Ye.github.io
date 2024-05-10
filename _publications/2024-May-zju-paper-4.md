@@ -1,12 +1,12 @@
 ---
 title: "Nondestructive evaluation of harvested cabbage texture quality using 3D scanning technology (Under Review)"
 collection: publications
-permalink: /publications/2024-xx-zju-paper-4
+permalink: /publications/2024-May-zju-paper-4
 excerpt: 'This work is about proposing a promising solution using 3D scanning technology to nondestructively assess the texture quality of leafy vegetables, and the harvested cabbages were chosen as the experimental samples.'
-date: 2024-07-01
+date: 2024-05-01
 venue: 'Journal of Food Engineering'
-paperurl: ''
-citation: 'Dongdong Du, Yongkai Ye, Dongfang Li, Jie Fan, Rob B.N. Scharff, Jun Wang, Fake Shan, (2024). Nondestructive evaluation of harvested cabbage texture quality using 3D scanning technology. Journal of Food Engineering, Under Review.'
+paperurl: 'Https//doi.org/10.1016/j.jfoodeng.2024.112123'
+citation: 'Dongdong Du, Yongkai Ye, Dongfang Li, Jie Fan, Rob B.N. Scharff, Jun Wang, Fake Shan, (2024). Nondestructive evaluation of harvested cabbage texture quality using 3D scanning technology. Journal of Food Engineering, 112123. '
 ---
 
 Author List
