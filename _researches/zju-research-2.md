@@ -10,7 +10,7 @@ permalink: /research/zju-research-2
 
 **Object:** Providing a novel pneumatic variable-curvature soft gripper (VCSG) for orientating broccoli.
 
-#**Difficulties:** The design and modeling of VCSG.
+**Difficulties:** The design and modeling of VCSG.
 
 **Role:** I was with full authority.
 
