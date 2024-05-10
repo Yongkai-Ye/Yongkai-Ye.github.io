@@ -12,7 +12,7 @@ permalink: /research/nwafu-research-3
 
 #**Difficulties:** Early low-grade infection of apple trees is hardly detected by visual inspection.
 
-**Role:** I was responsible for the survey of the literature and the writing of the origin draft.
+**Role:** I was responsible for the survey of the literature and the writing and editing of the original draft.
 
 **Advisor:** [Prof. Yanru Zhao](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/396312.htm)
 
