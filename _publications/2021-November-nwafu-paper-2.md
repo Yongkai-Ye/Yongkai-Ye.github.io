@@ -6,7 +6,7 @@ excerpt: 'This paper is about analyzing the advantages and disadvantages of mode
 date: 2021-11-01
 venue: 'The Science of The Total Environment'
 paperurl: 'https://doi.org/10.1016/j.scitotenv.2021.151851'
-citation: '**Yongkai Ye**, Keqiang Yu, Yanru Zhao, (2021). The development and application of advanced analytical methods in microplastics contamination detection: A critical review. The Science of The Total Environment, 114. '
+citation: 'Yongkai Ye, Keqiang Yu, Yanru Zhao, (2021). The development and application of advanced analytical methods in microplastics contamination detection: A critical review. The Science of The Total Environment, 114. '
 ---
 
 Author List
