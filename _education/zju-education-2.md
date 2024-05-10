@@ -16,5 +16,5 @@ My university applies for the two degrees grading system, so there is no ranking
 
 Research Interests
 ======
-Soft robots; Soft actuators; Finite element analysis; Fluid-structure interaction analysis; Machine learning
+Soft robots; Soft grippers; Soft actuators; Finite element analysis; Fluid-structure interaction analysis; Machine learning
 
