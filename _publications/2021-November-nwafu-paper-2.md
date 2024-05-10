@@ -2,11 +2,11 @@
 title: "The development and application of advanced analytical methods in microplastics contamination detection: A critical review"
 collection: publications
 permalink: /publications/2021-November-nwafu-paper-2
-excerpt: 'This paper is about analyze the advantages and disadvantages of modern identification methods of microplastics and the research of modern chemical identification methods in microplastics identification so that we can put forward corresponding suggestions for the improvement of modern identification methods of microplastics and contribute to the research of microplastics detection using modern chemical detection methods. Developing A variety of analytical methods and data processing methods such as machine learning methods for the detection and analysis of microplastics to find a non-destructive, efficient, and high-throughput detection method is left for future work.'
+excerpt: 'This paper is about analyzing the advantages and disadvantages of modern identification methods of microplastics and the research of modern chemical identification methods in microplastics identification so that we can put forward corresponding suggestions for the improvement of modern identification methods of microplastics and contribute to the research of microplastics detection using modern chemical detection methods. And developing A variety of analytical methods and data processing methods such as machine learning methods for the detection and analysis of microplastics to find a non-destructive, efficient, and high-throughput detection method is left for future work.'
 date: 2021-11-01
 venue: 'The Science of The Total Environment'
 paperurl: 'https://doi.org/10.1016/j.scitotenv.2021.151851'
-citation: 'Yongkai Ye, Keqiang Yu, Yanru Zhao, (2021). The development and application of advanced analytical methods in microplastics contamination detection: A critical review. The Science of The Total Environment, 114.'
+citation: '**Yongkai Ye**, Keqiang Yu, Yanru Zhao, (2021). The development and application of advanced analytical methods in microplastics contamination detection: A critical review. The Science of The Total Environment, 114. '
 ---
 
 Author List
