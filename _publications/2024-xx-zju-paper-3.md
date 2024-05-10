@@ -1,5 +1,5 @@
 ---
-title: "Fluid-Structure Interaction Modeling and Analysis of Soft Fiber-Reinforced Bending Actuator (Under Review)"
+title: "Fluid-structure interaction modeling and analysis of soft fiber-reinforced bending actuator (Under Review)"
 collection: publications
 permalink: /publications/2024-xx-zju-paper-3
 excerpt: 'This work is about proposing an approach for modeling the SFRBAs using fluid-structure interaction (FSI) method, combining computational fluid dynamics (CFD) and nonlinear structural analysis (NSA).'
