@@ -2,11 +2,11 @@
 title: "A dataset of multi-source and multi-temporal remote sensing data of cash crop planting structure in Yangling Agricultural Demonstration Zone (in Chinese)"
 collection: publications
 permalink: /publications/2023-June-nwafu-paper-3
-excerpt: 'This paper is about provide great data and technical support for the acquisition of information on the planting structure of cash crops, taking Yangling Agricultural Demonstration Area as the research area.'
+excerpt: 'This paper is about providing great data and technical support for the acquisition of information on the planting structure of cash crops, taking Yangling Agricultural Demonstration Area as the research area.'
 date: 2023-07-01
 venue: 'China Scientific Data'
 paperurl: 'https://doi.org/10.11922/11-6035.noda.2022.0002.zh'
-citation: 'Jiao Guo, Jingyuan Bai, Yongkai Ye, Chaoyue Han, Weitao Zhang (2023). A dataset of multi-source and multi-temporal remote sensing data of cash crop planting structure in Yangling Agricultural Demonstration Zone. China Scientific Data, 8(2).'
+citation: 'Jiao Guo, Jingyuan Bai, Yongkai Ye, Chaoyue Han, Weitao Zhang (2023). A dataset of multi-source and multi-temporal remote sensing data of cash crop planting structure in Yangling Agricultural Demonstration Zone. China Scientific Data, 8(2). '
 ---
 
 Author List
