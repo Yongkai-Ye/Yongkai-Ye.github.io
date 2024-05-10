@@ -9,7 +9,7 @@ permalink: /education/nwafu-education-1
 ---
 I received my Bachelor’s Degree in Electronics and Information Engineering from the College of Mechanical and Electronics Engineering ([CMEE](https://cmee.nwafu.edu.cn/)), Northwest A & F University([NWAFU](https://www.nwafu.edu.cn/)) in the summer of 2022. 
 
-During my undergraduate period, I worked as the monitor of our class and achieved the top, ranking *1* in 60 students (**GPA: 3.89/4.00**).
+During my undergraduate period, I worked as the monitor of our class and achieved the top, ranking **1** in 60 students (**GPA: 3.89/4.00**).
 
 My Transcript and Ranking Certificate are shown here.
 ![Yongkai Ye's Transcript](../images/UndergraduateTranscriptEnglish1.jpg){:height="75%" width="75%"}
