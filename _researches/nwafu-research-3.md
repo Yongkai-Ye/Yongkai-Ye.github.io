@@ -10,7 +10,7 @@ permalink: /research/nwafu-research-3
 
 **Object:** Reviewing the development and application of advanced analytical methods in microplastic contamination detection.
 
-#**Difficulties:** Early low-grade infection of apple trees is hardly detected by visual inspection.
+**Difficulties:** Early low-grade infection of apple trees is hardly detected by visual inspection.
 
 **Role:** I was responsible for the survey of the literature and the writing and editing of the original draft.
 
