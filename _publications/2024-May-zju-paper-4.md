@@ -1,5 +1,5 @@
 ---
-title: "Nondestructive evaluation of harvested cabbage texture quality using 3D scanning technology (Under Review)"
+title: "Nondestructive evaluation of harvested cabbage texture quality using 3D scanning technology"
 collection: publications
 permalink: /publications/2024-May-zju-paper-4
 excerpt: 'This work is about proposing a promising solution using 3D scanning technology to nondestructively assess the texture quality of leafy vegetables, and the harvested cabbages were chosen as the experimental samples.'
