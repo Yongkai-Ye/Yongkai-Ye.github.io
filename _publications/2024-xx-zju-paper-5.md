@@ -1,5 +1,5 @@
 ---
-title: "Bending Angle Prediction of Soft Fiber-Reinforced Bending Actuators Using FEM, Machine Learning, and Transfer Learning (Under Review)"
+title: "Bending angle prediction of soft fiber-reinforced bending actuators using FEM, machine learning, and transfer learning (Under Review)"
 collection: publications
 permalink: /publications/2024-xx-zju-paper-5
 excerpt: 'This work is about proposing a method for predicting the bending angle of soft fiber-reinforced bending actuators (SFRBAs) combining the finite element method (FEM) and a nonlinear machine learning algorithm (MLA).'
