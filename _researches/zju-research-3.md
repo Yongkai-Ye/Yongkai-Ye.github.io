@@ -1,5 +1,5 @@
 ---
-title: "Fluid-Structure Interaction Modelling and Analysis of Soft Fiber-Reinforced Bending Actuator (October 2023 - March 2024)"
+title: "Fluid-structure interaction modeling and analysis of soft fiber-reinforced bending actuator (October 2023 - March 2024)"
 collection: researches
 type: "Graduate"
 permalink: /research/zju-research-3
@@ -19,5 +19,5 @@ permalink: /research/zju-research-3
 **Results:** We presented a FSI modeling method to describe the nonlinear behaviors of multi-material SFRBAs and submit a SCI paper named ***"Fluid-Structure Interaction Modelling and Analysis of Soft Fiber-Reinforced Bending Actuator"*** to the journal ***"International Journal of Mechanical Science"*** for this research (Under Review).
 
 ![FSI Graphical Abstract](../images/FSIGraphicalAbstract.jpg "FSI Graphical abstract"){:height="75%" width="75%"} 
-<video src="../images/FSISupplementaryVideo1.mp4" autoplay="true" controls="controls" width="800" height="450">
-</video>
+<!--<video src="../images/FSISupplementaryVideo1.mp4" autoplay="true" controls="controls" width="800" height="450">
+</video>-->
