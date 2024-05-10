@@ -15,7 +15,7 @@ Education
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Research experiences
+Researches
 ======
   <ul>{% for post in site.researches reversed %}
     {% include archive-single-cv.html %}
