@@ -41,7 +41,7 @@ Awards and Achievements
 ![President Scholarship](../images/PresidentScholarship.jpg "President Scholarship"){:height="75%" width="75%"}
 ![Outstanding Undergraduate](../images/OutstandingUndergraduate1.jpg "Outstanding Undergraduate"){:height="75%" width="75%"}
 * 2019 China Robot Competition (The First Prize)
-![2019CR](../images/2019CR.jpg "2019CRC"){:height="75%" width="75%"}
+![2019CR](../images/2019CRC.jpg "2019CRC"){:height="75%" width="75%"}
 * 11th China Undergraduate Mathematical Preliminary Contest (The First Prize, Provincial Award)
 ![11CUMPC](../images/11CUMPC.jpg "11CUMPC"){:height="75%" width="75%"}
 
