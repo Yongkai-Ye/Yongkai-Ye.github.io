@@ -39,21 +39,21 @@ Awards and Achievements
 2021 -- 2022
 ------
 * 2022 The Mathematical Contest in Modeling (Honorable Mention)
-* National Scholarship Student Representative
+* National Scholarship Undergraduate Representative
 
 2020 -- 2021
 ------
-* National Scholarship Outstanding Graduate
+* National Scholarship Outstanding Undergraduate
 * 12th China Undergraduate Mathematical Final Contest (The Third Prize, National Award)
 
 2019 -- 2020
 ------
-* National Scholarship Outstanding Graduate
+* National Scholarship Outstanding Undergraduate
 * 12th China Undergraduate Mathematical Preliminary Contest (The First Prize, Provincial Award)
 
 2018 -- 2019
 ------
-* President Scholarship Outstanding Graduate
+* President Scholarship Outstanding Undergraduate
 * 2019 China Robot Competition (The First Prize)
 * 11th China Undergraduate Mathematical Contest (The First Prize, Provincial Award)
 
