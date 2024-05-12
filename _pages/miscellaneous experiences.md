@@ -23,7 +23,7 @@ Awards and Achievements
 ---
 * National Scholarship Outstanding Undergraduate
 ![National Scholarship](../images/NationalScholarship2.jpg "National Scholarship"){:height="75%" width="75%"}
-![Outstanding Undergraduate](../images/OutstandingUndergraduate2.jpg "Outstanding Undergraduate"){:height="75%" width="75%"}
+![Outstanding Undergraduate](../images/OutstandingUndergraduate3.jpg "Outstanding Undergraduate"){:height="75%" width="75%"}
 * 12th China Undergraduate Mathematical Final Contest (The Third Prize, National Award)
 ![12CUMFC](../images/12CUMFC.jpg "12CUMFC"){:height="75%" width="75%"}
 
