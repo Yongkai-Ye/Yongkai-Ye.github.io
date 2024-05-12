@@ -19,7 +19,7 @@ Awards and Achievements
 
 ![2022MCMH](../images/2022MCMH.jpg "2022MCMH"){:height="75%" width="75%"}
 
-* National Scholarship Student Representative
+* National Scholarship Undergraduate Representative
 
 2020 -- 2021
 ---
@@ -35,7 +35,7 @@ Awards and Achievements
 
 2019 -- 2020
 ---
-* National Scholarship Outstanding Graduate
+* National Scholarship Outstanding Undergraduate
 
 ![National Scholarship](../images/NationalScholarship1.jpg "National Scholarship"){:height="75%" width="75%"}
 
@@ -47,7 +47,7 @@ Awards and Achievements
 
 2018 -- 2019
 ---
-* President Scholarship Outstanding Graduate
+* President Scholarship Outstanding Undergraduate
 
 ![President Scholarship](../images/PresidentScholarship.jpg "President Scholarship"){:height="75%" width="75%"}
 
