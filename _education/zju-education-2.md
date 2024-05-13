@@ -12,6 +12,13 @@ I am currently studying for a Master’s Degree in Agricultural Mechanization En
 
 I am now working as the person responsible for the safety of our Lab.
 My university applies for the two degrees grading system, so there is no ranking certificate. My Transcript is shown here.
+
+Chinses Version:
+
+![Yongkai Ye's Transcript](../images/GraduateTranscriptChinese.jpg){:height="75%" width="75%"}
+
+Chinses Version:
+
 ![Yongkai Ye's Transcript](../images/GraduateTranscriptEnglish.jpg){:height="75%" width="75%"}
 
 Research Interests
