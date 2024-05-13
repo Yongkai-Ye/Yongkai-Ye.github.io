@@ -17,7 +17,7 @@ Chinses Version:
 
 ![Yongkai Ye's Transcript](../images/GraduateTranscriptChinese.jpg){:height="75%" width="75%"}
 
-Chinses Version:
+English Version:
 
 ![Yongkai Ye's Transcript](../images/GraduateTranscriptEnglish.jpg){:height="75%" width="75%"}
 
