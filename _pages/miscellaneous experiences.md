@@ -53,7 +53,7 @@ Awards and Achievements
 
 ![Outstanding Undergraduate](../images/OutstandingUndergraduate1.jpg "Outstanding Undergraduate"){:height="75%" width="75%"}
 
-* 2019 China Robot Competition (The First Prize)
+* 2019 China Robot Competition (The First Prize, National Award)
 
 ![2019CR](../images/2019CRC.jpg "2019CRC"){:height="75%" width="75%"}
 
