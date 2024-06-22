@@ -1,5 +1,5 @@
 ---
-title: "Modelling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data (April 2023 - November 2024)"
+title: "Modelling of soft fiber-reinforced bending actuators through transfer learning from a machine learning algorithm trained from FEM data (April 2023 - February 2024)"
 collection: researches
 type: "Graduate"
 permalink: /research/zju-research-1
