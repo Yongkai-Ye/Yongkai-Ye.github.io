@@ -19,8 +19,6 @@ Awards and Achievements
 
 ![2022MCMH](../images/2022MCMH.jpg "2022MCMH"){:height="75%" width="75%"}
 
-* National Scholarship Undergraduate Representative
-
 2020 -- 2021
 ---
 * National Scholarship Outstanding Undergraduate
