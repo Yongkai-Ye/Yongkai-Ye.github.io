@@ -1,5 +1,5 @@
 ---
-title: "Biomimetic pneumatic soft gripper for grasping umbrella-shaped mushrooms (Under Review)"
+title: "Biomimetic pneumatic soft gripper for grasping umbrella-shaped mushrooms (Decision in Process)"
 collection: publications
 permalink: /publications/2024-xx-zju-paper-6
 excerpt: 'This work is about proposing a biomimetic pneumatic soft gripper (BPSG) that mainly comprised three soft variable-curvature fiber-reinforced bending actuators (VCFRBAs), dedicated to grasping umbrella-shaped mushrooms.'
