@@ -21,5 +21,5 @@ permalink: /research/zju-research-2
 ![VCSG Graphical Abstract](../images/VCSGGraphicalAbstract.jpg "VCSG Graphical abstract"){:height="75%" width="75%"} 
 <!--<video src="../images/VCSGSupplementaryVideo1.mp4" autoplay="true" controls="controls" width="800" height="450">
 </video>
-<video src="../images/VCSGSupplementaryVideo2.mp4" autoplay="true" controls="controls" width="800" height="450">
+<!--<video src="../images/VCSGSupplementaryVideo2.mp4" autoplay="true" controls="controls" width="800" height="450">
 </video>
