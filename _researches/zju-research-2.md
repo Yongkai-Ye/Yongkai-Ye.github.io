@@ -22,4 +22,4 @@ permalink: /research/zju-research-2
 <!--<video src="../images/VCSGSupplementaryVideo1.mp4" autoplay="true" controls="controls" width="800" height="450">
 </video>
 <video src="../images/VCSGSupplementaryVideo2.mp4" autoplay="true" controls="controls" width="800" height="450">
-</video>-->
+</video>
