@@ -20,4 +20,4 @@ permalink: /research/zju-research-4
 
 ![3D Graphical Abstract](../images/3DGraphicalAbstract.jpg "3D Graphical abstract"){:height="75%" width="75%"} 
 
-![3D Cover](../images/3DCover.jpg "3D cover"){:height="75%" width="75%"} 
+<!--![3D Cover](../images/3DCover.jpg "3D cover"){:height="75%" width="75%"} 
