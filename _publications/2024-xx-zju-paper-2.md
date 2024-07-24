@@ -5,8 +5,8 @@ permalink: /publications/2024-xx-zju-paper-2
 excerpt: 'A novel pneumatic variable-curvature soft gripper (VCSG) for orientating broccoli.'
 date: 2024-07-01
 venue: 'Computers and Electronics in Agriculture'
-paperurl: ''
-citation: 'Yongkai Ye, Chaoyue Han, Shuo Kang, Jianzhuang Zhao, Rob B.N. Scharff, Jun Wang, Dongdong Du, (2024). Development of a novel variable-curvature soft gripper used for orientating broccoli in the trimming line. Computers and Electronics in Agriculture, U.'
+paperurl: 'https://doi.org/10.1016/j.compag.2024.109267'
+citation: 'Yongkai Ye, Chaoyue Han, Shuo Kang, Jianzhuang Zhao, Rob B.N. Scharff, Jun Wang, Dongdong Du, (2024). Development of a novel variable-curvature soft gripper used for orientating broccoli in the trimming line. Computers and Electronics in Agriculture, 225, 109267.'
 ---
 
 Author List
@@ -20,3 +20,5 @@ Orientating the broccoli plays an important part in the trimming line, which hel
 Keywords
 ======
 Soft gripper; Soft fiber-reinforced bending actuators; Variable curvature; Orientating broccoli; Broccoli trimming line-->
+
+[Download Paper Here!](https://doi.org/10.1016/j.compag.2024.109267)
