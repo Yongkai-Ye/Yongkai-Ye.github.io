@@ -1,5 +1,5 @@
 ---
-title: "Development of a novel variable-curvature soft gripper used for orientating broccoli in the trimming line (Decision in Process)"
+title: "Development of a novel variable-curvature soft gripper used for orientating broccoli in the trimming line"
 collection: publications
 permalink: /publications/2024-July-zju-paper-2
 excerpt: 'A novel pneumatic variable-curvature soft gripper (VCSG) for orientating broccoli.'
