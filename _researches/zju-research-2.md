@@ -16,7 +16,7 @@ permalink: /research/zju-research-2
 
 **Advisor:** [Prof. Dongdong Du](https://person.zju.edu.cn/Dudd)
 
-**Results:** We presented a novel and efficient variable-curvature soft gripper (VCSG) with the ability to guide the broccoli upright that mainly comprised variable-curvature fiber-reinforced bending actuators (VCFRBAs) and published a SCI paper named ***"Development of a novel variable-curvature soft gripper used for orientating broccoli in the trimming line"*** in the journal ***"Computers and Electronics in Agriculture"*** for this research.
+**Results:** We presented a novel and efficient variable-curvature soft gripper (VCSG) with the ability to guide the broccoli upright that mainly comprised variable-curvature fiber-reinforced bending actuators (VCFRBAs) and published a SCI paper named ***"[Development of a novel variable-curvature soft gripper used for orientating broccoli in the trimming line](https://doi.org/10.1016/j.compag.2024.109267))"*** in the journal ***"Computers and Electronics in Agriculture"*** for this research.
 
 ![VCSG Graphical Abstract](../images/VCSGGraphicalAbstract.jpg "VCSG Graphical abstract"){:height="75%" width="75%"} 
 <video src="../images/VCSGSupplementaryVideo1.mp4" autoplay="true" controls="controls" width="800" height="450">
