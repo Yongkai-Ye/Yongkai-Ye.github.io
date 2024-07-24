@@ -16,7 +16,7 @@ permalink: /research/zju-research-4
 
 **Advisor:** [Prof. Dongdong Du](https://person.zju.edu.cn/Dudd)
 
-**Results:** We presented a nondestructive method based on 3D scanning technology for determining the texture quality of leafy vegetables, using the harvested cabbages as experimental samples and published a SCI paper named ***"Nondestructive evaluation of harvested cabbage texture quality using 3D scanning technology"*** to the journal ***"Journal of Food Engineering"*** for this research.
+**Results:** We presented a nondestructive method based on 3D scanning technology for determining the texture quality of leafy vegetables, using the harvested cabbages as experimental samples and published a SCI paper named ***"[Nondestructive evaluation of harvested cabbage texture quality using 3D scanning technology](https://doi.org/10.1016/j.jfoodeng.2024.112123)"*** to the journal ***"Journal of Food Engineering"*** for this research.
 
 ![3D Graphical Abstract](../images/3DGraphicalAbstract.jpg "3D Graphical abstract"){:height="75%" width="75%"} 
 
