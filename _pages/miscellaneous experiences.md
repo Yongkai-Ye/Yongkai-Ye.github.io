@@ -21,9 +21,11 @@ Awards and Achievements
 
 2020 -- 2021
 ---
-* National Scholarship Outstanding Undergraduate
+* National Scholarship
 
 ![National Scholarship](../images/NationalScholarship2.jpg "National Scholarship"){:height="75%" width="75%"}
+
+* Outstanding Undergraduate
 
 ![Outstanding Undergraduate](../images/OutstandingUndergraduate3.jpg "Outstanding Undergraduate"){:height="75%" width="75%"}
 
@@ -33,9 +35,11 @@ Awards and Achievements
 
 2019 -- 2020
 ---
-* National Scholarship Outstanding Undergraduate
+* National Scholarship
 
 ![National Scholarship](../images/NationalScholarship1.jpg "National Scholarship"){:height="75%" width="75%"}
+
+* Outstanding Undergraduate
 
 ![Outstanding Undergraduate](../images/OutstandingUndergraduate2.jpg "Outstanding Undergraduate"){:height="75%" width="75%"}
 
@@ -45,9 +49,11 @@ Awards and Achievements
 
 2018 -- 2019
 ---
-* President Scholarship Outstanding Undergraduate
+* President Scholarship
 
 ![President Scholarship](../images/PresidentScholarship.jpg "President Scholarship"){:height="75%" width="75%"}
+
+* Outstanding Undergraduate
 
 ![Outstanding Undergraduate](../images/OutstandingUndergraduate1.jpg "Outstanding Undergraduate"){:height="75%" width="75%"}
 
