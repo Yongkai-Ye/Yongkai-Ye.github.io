@@ -53,11 +53,11 @@ Awards and Achievements
 
 2018 -- 2019
 ---
-* President Scholarship
+* President Scholarship (Top Intra-school Award)
 
 ![President Scholarship](../images/PresidentScholarship.jpg "President Scholarship"){:height="75%" width="75%"}
 
-* Outstanding Undergraduate
+* Outstanding Undergraduate (Top Intra-school Award)
 
 ![Outstanding Undergraduate](../images/OutstandingUndergraduate1.jpg "Outstanding Undergraduate"){:height="75%" width="75%"}
 
@@ -68,6 +68,10 @@ Awards and Achievements
 ![Trophy](../images/Trophy.png "Trophy"){:height="75%" width="75%"}
 
 * 11th China Undergraduate Mathematical Preliminary Contest (The First Prize, Provincial Award)
+
+![11CUMPC](../images/11CUMPC.jpg "11CUMPC"){:height="75%" width="75%"}
+
+* 12th college Students Advanced Mathematics Competition in Shaanxi Province (The First Prize, Provincial Award)
 
 ![11CUMPC](../images/11CUMPC.jpg "11CUMPC"){:height="75%" width="75%"}
 
