@@ -26,19 +26,17 @@ Awards and Achievements
 
 * Outstanding Graduates of Shaanxi Province (Provincial Award)
 
-![2022MCMH](../images/2022MCMH.jpg "2022MCMH"){:height="75%" width="75%"}
+![OGSP](../images/OGSP.jpg "OGSP"){:height="75%" width="75%"}
 
 * The 2022 Top Ten Graduates Nomination (Top Intra-school Award)
 
-![2022MCMH](../images/2022MCMH.jpg "2022MCMH"){:height="75%" width="75%"}
+![2022TTGN](../images/2022TTGN.jpg "2022TTGN"){:height="75%" width="75%"}
 
 * 2022 Outstanding Graduates (Top Intra-school Award)
 
-![2022MCMH](../images/2022MCMH.jpg "2022MCMH"){:height="75%" width="75%"}
+![2022OG](../images/2022OG.jpg "2022OG"){:height="75%" width="75%"}
 
 * National Scholarship Student Representative (National Award)
-
-![2022MCMH](../images/2022MCMH.jpg "2022MCMH"){:height="75%" width="75%"}
 
 * 2022 The Mathematical Contest in Modeling (Honorable Mention, International Award)
 
@@ -76,9 +74,9 @@ Awards and Achievements
 
 ![Outstanding Undergraduate](../images/OutstandingUndergraduate2.jpg "Outstanding Undergraduate"){:height="75%" width="75%"}
 
-* 12th college Students Advanced Mathematics Competition in Shaanxi Province (The First Prize, Provincial Award)
+* 12th College Students Advanced Mathematics Competition in Shaanxi Province (The First Prize, Provincial Award)
 
-![11CUMPC](../images/11CUMPC.jpg "11CUMPC"){:height="75%" width="75%"}
+![11CSAMC](../images/11CSAMC.jpg "11CSAMC"){:height="75%" width="75%"}
 
 * 11th China Undergraduate Mathematical Preliminary Contest (The First Prize, Provincial Award)
 
