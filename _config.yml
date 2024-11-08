@@ -21,22 +21,23 @@ repository               : "Yongkai-Ye/Yongkai-Ye.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yongkai Ye"
   pronouns         : ""  
   bio              : "Master student, CBEFC, ZJU"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
+  #employer         : "Northwest A&F University (Graduated)"
   URI              : ""
   email            : "yyk22213004@zju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=goi62BAAAAAJ/"
+  googlescholar    : "https://scholar.google.com/citations?user=goi62BAAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0002-5310-9435/"
+  orcid            : "http://orcid.org/0000-0002-5310-9435"
   pubmed           : #URL
-  researchgate     : "https://www.researchgate.net/profile/Yongkai-Ye-2/"
+  researchgate     : "https://www.researchgate.net/profile/Yongkai-Ye-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

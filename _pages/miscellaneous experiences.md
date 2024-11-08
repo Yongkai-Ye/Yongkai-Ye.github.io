@@ -29,6 +29,10 @@ Awards and Achievements
 
 ![Outstanding Undergraduate](../images/OutstandingUndergraduate3.jpg "Outstanding Undergraduate"){:height="75%" width="75%"}
 
+* 7th National Undergraduate Electronic Design Contest (The Third Prize, Provincial Award)
+
+![2020NUEDC](../images/2020NUEDC.jpg "2020NUEDC"){:height="75%" width="75%"}
+
 * 12th China Undergraduate Mathematical Final Contest (The Third Prize, National Award)
 
 ![12CUMFC](../images/12CUMFC.jpg "12CUMFC"){:height="75%" width="75%"}
