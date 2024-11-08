@@ -27,7 +27,7 @@ author:
   bio              : "Master student, CBEFC, ZJU"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
-  employer         : "Northwest A&F University (Graduated)"
+  #employer         : "Northwest A&F University (Graduated)"
   URI              : ""
   email            : "yyk22213004@zju.edu.cn" 
 
