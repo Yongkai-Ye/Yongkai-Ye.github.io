@@ -17,7 +17,7 @@ In addition, I received my Bachelor’s degree in Electronics and Information En
 
 Details are shown on the other pages of this website.
 
-<!--My CV is shown here: [Yongkai Ye's Curriculum Vitae](../assets/CurriculumVitae.pdf).-->
+My CV is shown here: [Yongkai Ye's Curriculum Vitae](../assets/CurriculumVitae.pdf).
 
 You can contact me via these ways: [Email](mailto:yyk22213004@zju.edu.cn)/ [Github](https://github.com/Yongkai)/ [ResearchGate](https://www.researchgate.net/profile/Yongkai-Ye-2)/ [GoogleSchloar](https://scholar.google.com/citations?user=goi62BAAAAAJ)
 
