@@ -36,26 +36,39 @@ Skills
 Awards and Achievements
 ======
 
+2022 -- 2024
+------
+* National Scholarship (National Award)
+* Outstanding Postgraduates (Top Intra-school Award)
+* 6th China Graduate Robot Innovation Design Competition (The Second Prize, National Award)
+
 2021 -- 2022
 ------
 * 2022 The Mathematical Contest in Modeling (Honorable Mention)
-* National Scholarship Undergraduate Representative
+* 2022 Outstanding Graduates (Top Intra-school Award)
+* Outstanding Graduates of Shaanxi Province (Provincial Award)
+* The 2022 Top Ten Graduates Nomination (Top Intra-school Award)
+* National Scholarship Undergraduate Representative (National Award)
 
 2020 -- 2021
 ------
-* National Scholarship Outstanding Undergraduate
-* 12th China Undergraduate Mathematical Final Contest (The Third Prize, National Award)
+* National Scholarship (National Award)
+* Outstanding Undergraduate (Top Intra-school Award)
+* 12th China Undergraduate Mathematical Preliminary Contest (The First Prize, Provincial Award)
+* 7th National Undergraduate Electronic Design Contest (The Third Prize, Provincial Award)
+* 12th China Undergraduate Mathematical Contest (The Third Prize, National Award)
 
 2019 -- 2020
 ------
-* National Scholarship Outstanding Undergraduate
-* 12th China Undergraduate Mathematical Preliminary Contest (The First Prize, Provincial Award)
+* National Scholarship (National Award)    Outstanding Undergraduate (Top Intra-school Award)
+* 12th College Students Advanced Mathematics Competition in Shaanxi Province (The First Prize, Provincial Award)
+* 11th China Undergraduate Mathematical Preliminary Contest (The First Prize, Provincial Award)
+
 
 2018 -- 2019
 ------
-* President Scholarship Outstanding Undergraduate
-* 2019 China Robot Competition (The First Prize)
-* 11th China Undergraduate Mathematical Contest (The First Prize, Provincial Award)
+* President Scholarship (Top Intra-school Award)    Outstanding Undergraduate (Top Intra-school Award)
+* 2019 China Robot Competition (The First Prize, National Award)
 
 Certifications
 ======
