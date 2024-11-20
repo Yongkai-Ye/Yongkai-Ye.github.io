@@ -21,6 +21,8 @@ Awards and Achievements
 
 * 6th China Graduate Robot Innovation Design Competition (The Second Prize, National Award)
 
+![6CGRIDC](../images/6CGRIDC.jpg "6CGRIDC"){:height="75%" width="75%"}
+
 2021 -- 2022
 ---
 
