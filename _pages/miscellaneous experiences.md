@@ -40,6 +40,8 @@ Awards and Achievements
 
 * National Scholarship Student Representative (National Award)
 
+![RMRB2022050405](../images/RMRB2022050405.jpg "RMRB2022050405"){:height="75%" width="75%"}
+
 * 2022 The Mathematical Contest in Modeling (Honorable Mention, International Award)
 
 ![2022MCMH](../images/2022MCMH.jpg "2022MCMH"){:height="75%" width="75%"}
