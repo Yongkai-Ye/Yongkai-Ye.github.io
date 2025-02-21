@@ -17,7 +17,11 @@ Awards and Achievements
 ---
 * National Scholarship (National Award)
 
-* Outstanding Postgraduates (Top Intra-school Award)
+![National Scholarship](../images/NationalScholarship3.jpg "National Scholarship"){:height="75%" width="75%"}
+
+* Outstanding Postgraduate (Top Intra-school Award)
+
+![Outstanding Postgraduate](../images/OutstandingPostgraduate1.jpg "Outstanding Postgraduate"){:height="75%" width="75%"}
 
 * 6th China Graduate Robot Innovation Design Competition (The Second Prize, National Award)
 
